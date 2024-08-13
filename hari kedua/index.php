@@ -8,5 +8,13 @@ echo"<br>";
 echo phi;
 echo "<br>";
 
-$luasPersegiPanjang=9;
-echo $luasPersegiPanjang;
+$luasPersegiPanjang=67;
+$KelilingLingkaran=93.5;
+$nama="Hafiz Maulana";
+$hidup=TRUE;
+
+
+var_dump($luasPersegiPanjang);
+var_dump($KelilingLingkaran);
+var_dump($nama);
+var_dump($hidup);
