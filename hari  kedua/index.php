@@ -8,5 +8,5 @@ echo"<br>";
 echo phi;
 echo "<br>";
 
-$luasPersegiPanj@ng=9;
-echo $luasPersegiPanj@ng;
+$luasPersegiPanjang=9;
+echo $luasPersegiPanjang;
