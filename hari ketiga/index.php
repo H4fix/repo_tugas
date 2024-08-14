@@ -23,4 +23,4 @@ $bilB=5;
 //var_dump($bilB);
 //var_dump($bilA===$bilB);
 
-var_dump($bilA==7&& $bilB==4);
+var_dump(!($bilA==7));
