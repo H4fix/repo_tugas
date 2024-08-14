@@ -18,7 +18,9 @@ $sisaHasilBagi=$bilangan1%$bilangan2;
 //operator perbandingan
 
 $bilA=7;
-$bilB="7";
-var_dump($bilA);
-var_dump($bilB);
-var_dump($bilA===$bilB);
+$bilB=5;
+//var_dump($bilA);
+//var_dump($bilB);
+//var_dump($bilA===$bilB);
+
+var_dump($bilA==7&& $bilB==4);
