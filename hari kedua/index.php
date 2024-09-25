@@ -10,7 +10,7 @@ echo "<br>";
 
 $luasPersegiPanjang=67;
 $KelilingLingkaran=93.5;
-$nama="Hafiz Maulana";
+$nama="Hafi molen";
 $hidup=TRUE;
 
 
